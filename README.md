@@ -5,9 +5,9 @@ I work with AI coding agents every day and I care most about the part people ski
 
 ## Featured
 
-**[agent-harness](https://github.com/gh0stsyntax/agent-harness)** – a small, tested gate between agents and their tools: allowlist per agent, risk classes, approval with dry-run as the default, call budgets, hash-chained audit log. 16 tests, and the tests themselves are checked by breaking the code on purpose (8/8 mutations caught).
+**[airlock](https://github.com/gh0stsyntax/airlock)** – a small, tested gate between agents and their tools: allowlist per agent, risk classes, approval with dry-run as the default, call budgets, hash-chained audit log. 16 tests, and the tests themselves are checked by breaking the code on purpose (8/8 mutations caught).
 
-**[xaml-ml](https://github.com/gh0stsyntax/xaml-ml)** – plain language → UiPath workflow with a local LLM. The project's own quality score said 84–99/100, the real UiPath build said 0/5 – so the compiler was fixed until every output builds (5/5), each fix pinned by a regression test.
+**[flowsmith](https://github.com/gh0stsyntax/flowsmith)** – plain language → UiPath workflow with a local LLM. The project's own quality score said 84–99/100, the real UiPath build said 0/5 – so the compiler was fixed until every output builds (5/5), each fix pinned by a regression test.
 
 ## How I work with agents
 
