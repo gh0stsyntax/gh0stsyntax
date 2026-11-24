@@ -19,5 +19,3 @@ I work with AI coding agents every day and I care most about the part people ski
 ## Stack
 
 Python · TypeScript · FastAPI · SQLite/PostgreSQL basics · Docker basics · Linux · UiPath · Ollama / local LLMs · Claude Code, OpenCode
-
-*Honest note: my systems run in daily use for myself; I have not yet run a product with outside users in production – that is what I want to learn next.*
