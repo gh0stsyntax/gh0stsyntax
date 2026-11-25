@@ -3,6 +3,8 @@
 M.Sc. Data Engineering & Consulting (2026), formerly RPA developer (UiPath, SAP process automation).
 I work with AI coding agents every day and I care most about the part people skip: **proving that what the agent produced actually works** – and noticing when it doesn't.
 
+> **Note:** This is my current GitHub profile, created in November 2026. Any older GitHub accounts of mine are obsolete and no longer maintained; please ignore anything you find there.
+
 ## Featured
 
 **[airlock](https://github.com/gh0stsyntax/airlock)** – a small, tested gate between agents and their tools: allowlist per agent, risk classes, approval with dry-run as the default, call budgets, hash-chained audit log. 26 tests, including a three-role example (researcher / builder / reviewer), and the tests themselves are checked by breaking the code on purpose (8/8 mutations on the library, 7/7 on the example).
